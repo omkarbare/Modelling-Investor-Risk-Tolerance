@@ -13,4 +13,4 @@ Calculate the total assets of an individual by summing their risky and risk-free
 The ratio of risky assets to total assets is considered a measure of the individual’s risk tolerance. This ratio indicates how much risk an individual is willing to take on, with a higher proportion of risky assets suggesting higher risk tolerance.
 Normalization of Risky Assets: The value of risky assets is normalized using the price of a stock index (like the S&P 500) between 2007 and 2009. This step adjusts for market value changes over time, providing a more accurate representation of risk tolerance.
 
-Machine Learning Implementation: The project aims to build a supervised regression-based model to predict an investor's risk tolerance using demographic, financial, and behavioral attributes. This model is then integrated into a robo-advisor dashboard in Python, demonstrating the automation of manual steps in portfolio management through machine learning.
+Machine Learning Implementation: The project aims to build a supervised regression-based model to predict an investor's risk tolerance using demographic, financial, and behavioral attributes.
